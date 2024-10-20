@@ -1,0 +1,13 @@
+python manage.py runserver
+
+Features 
+- Cauraousal format me recipes dikhathaa hai.. meals.db and cocktail.db API se data leta hai 
+- CHATGPT API ko hum log prompt bhejte hain
+- form submit --data get stored in django sqlite (django ka built in database )
+- data access - admin iinterface pe jake data dekh log
+admin interface username and password are - "alok" and "akrity"
+
+- if u wanna send email advertisement ( email subsription ) then u have to run a python script from the terminal
+python manage.py my_script
+
+- this sending of email is done thorugh "brevo" API , brevo is a emailing service.
